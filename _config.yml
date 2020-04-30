@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: VolleyZ Blog
 SEOTitle: VolleyZ Blog
 header-img: img/post-bg-desk.jpg
 description: "When you liston the 'No',that is the time of begin striving!"
@@ -55,12 +55,13 @@ kramdown:
 # disqus_username: qiubaiying
 
 # Gitalk
-gitalk:
-  enable: false    #是否开启Gitalk评论
+#gitalk:
+#  enable: false    #是否开启Gitalk评论
 
 
 # 统计
-
+# Baidu Analytics
+ba_track_id: 0c439ee536daf6692a49f286ddac6f63
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
