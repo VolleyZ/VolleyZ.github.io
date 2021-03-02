@@ -4,11 +4,11 @@
 	"details": [
 			{
 			"appID": "W227V69LZB.com.test.test.Universal-link1",
-            		"paths": ["index.html", "/tags/", "/blob/*"]
+            		"paths": ["*", "/tags/*", "/blob/*"]
 			},
 			{
 			"appID": "W227V69LZB.com.test.test.Universal-link",
-            		"paths": ["/css/"]
+            		"paths": ["*"]
 			}
 		]
 	}

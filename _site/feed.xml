@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VolleyZ Blog</title>
+    <description>When you liston the 'No',that is the time of begin striving!</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 16 Jun 2020 19:55:01 +0800</pubDate>
+    <lastBuildDate>Tue, 16 Jun 2020 19:55:01 +0800</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+  </channel>
+</rss>
