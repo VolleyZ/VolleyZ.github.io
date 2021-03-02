@@ -4,7 +4,7 @@
 	"details": [
 			{
 			"appID": "W227V69LZB.com.test.test.Universal-link1",
-            		"paths": ["index.html", "/img/", "/blob/*"]
+            		"paths": ["index.html", "/tag/", "/blob/*"]
 			},
 			{
 			"appID": "W227V69LZB.com.test.test.Universal-link",
